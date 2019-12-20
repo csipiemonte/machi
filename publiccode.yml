@@ -1,0 +1,76 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - digital-citizenship
+  - data-visualization
+dependsOn:
+  open:
+    - name: PHP
+      optional: false
+      version: '7.2'
+      versionMax: ''
+      versionMin: ''
+    - name: Apache httpd
+      optional: false
+      version: '2.4.6'
+      versionMax: ''
+      versionMin: ''
+logo: img/logo.png
+description:
+  it:
+    features:
+      - I mei dati
+      - Comunicazione e notifiche
+      - Lancio dei Servizi per il Cittadino
+      - Insights
+      - Le mie preferenze
+    genericName: Digital City Platform
+    longDescription: "Machi è la piattaforma digitale della Città. Il luogo in cui il cittadino trova tutti i dati che lo riguardano e che la Città a vario titolo possiede, ma anche il punto unico di accesso, grazie a SPID o CIE, per fruire di servizi data driven e di notifiche generate dai servizi digitali della Città.
+    Si tratta di un progetto di integrazione in grado di coinvolgere dati e servizi gestiti da diversi fornitori, grazie a un'architettura fortemente orientata all'interoperabilità e all'utilizzo di Application Programming Interface (API). Grazie alle insight, ai servizi data driven e al sistema di preferenze e notifiche, Machi permette all’Amministrazione di cambiare il paradigma tradizionale veicolando le informazioni, gli avvisi e i promemoria direttamente sul cellulare dell’utente interessato, sulla base del suo profilo e delle sue richieste, senza costringerlo a cercarle in autonomia su portali e servizi dell'Ente. Machi realizza questo nuovo modello presentandosi al cittadino come un portale e una webapp autenticata, che ospita una bacheca, i servizi, le notifiche e i dati del nucleo familiare, dei tributi e del catasto, su cui sono basati i servizi data driven."
+    shortDescription: "Machi è la piattaforma digitale della Città. Il luogo in cui il cittadino trova tutti i dati che lo riguardano e che la Città a vario titolo possiede, ma anche il punto unico di accesso, grazie a SPID o CIE, per fruire di servizi data driven e di notifiche generate dai servizi digitali della Città."
+developmentStatus: development
+intendedAudience:
+  scope:
+    - government
+it:
+  conforme:
+    gdpr: true
+    lineeGuidaDesign: true
+    misureMinimeSicurezza: true
+    modelloInteroperabilita: true
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: true
+    pagopa: false
+    spid: true
+  riuso:
+    codiceIPA: csi_piem
+legal:
+  license: EUPL-1.2
+  mainCopyrightOwner: 'CSI Piemonte'
+  repoOwner: 'CSI Piemonte'
+localisation:
+  availableLanguages:
+    - it
+  localisationReady: false
+maintenance:
+  contacts:
+    - email: stefano.moro@csi.it
+      name: Stefano Moro
+    - email: saverino.reale@csi.it
+      name: Saverino Reale
+    - email: paolo.epifani@csi.it
+      name: Paolo Epifani
+  type: internal
+name: Machi
+platforms:
+  - web
+releaseDate: '2019-12-20'
+softwareType: standalone/web
+softwareVersion: '0.1'
+url: 'https://github.com/csipiemonte/machi'
+landingURL: 'https://github.com/csipiemonte/machi.git'
