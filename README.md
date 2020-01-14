@@ -19,4 +19,4 @@ SPDX-License-Identifier: EUPL-1.2-or-later
 See [LICENSE.txt](https://github.com/csipiemonte/machi/blob/master/LICENSE.txt) file for details
 
 
-> Machi è un marchio creato dal CSI-Piemonte, in quanto tale escluso dalle condizioni di licenza relative ai sorgenti qui pubblicati
+Machi è un marchio creato dal CSI-Piemonte, in quanto tale escluso dalle condizioni di licenza relative ai sorgenti qui pubblicati
