@@ -9,11 +9,14 @@ Il sistema è suddiviso in due componenti:
 - MACHI back-end for front-end (https://github.com/csipiemonte/machibff)
 
 # Versioning
-We use Semantic Versioning for versioning. (http://semver.org)
+We use Semantic Versioning for versioning (http://semver.org)
 
-#Copyrights 
-© Copyright CSI Piemonte – 2019”.
+# Copyrights
+© Copyright CSI Piemonte - 2019”
 
-# License (Mandatory)
+# License
 SPDX-License-Identifier: EUPL-1.2-or-later
 See LICENSE.txt file for details
+
+
+Machi è un marchio creato dal CSI-Piemonte, in quanto tale escluso dalle condizioni di licenza relative ai sorgenti qui pubblicati
