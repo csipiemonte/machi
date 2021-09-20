@@ -59,8 +59,6 @@ localisation:
   localisationReady: false
 maintenance:
   contacts:
-    - email: stefano.moro@csi.it
-      name: Stefano Moro
     - email: saverino.reale@csi.it
       name: Saverino Reale
     - email: paolo.epifani@csi.it
